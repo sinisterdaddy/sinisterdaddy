@@ -1,9 +1,15 @@
 <div align="center">
+# 👨‍ Welcome To:
+
+</div>
+
+
+<div align="center">
 <img src="https://github.com/sinisterdaddy/sinisterdaddy/blob/main/logo.png" align="center" style="width: 65%" />
 </div>  
   
 
-### <div align="center">I'm Radha krishna, a front-end developer and Data Scientist 👨‍💻 🚀.</div>  
+### I'm Radha krishna, a front-end developer and Data Scientist 👨‍💻 🚀
   
 
 - 🔭 I’m currently working on React  
