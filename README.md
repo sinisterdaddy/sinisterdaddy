@@ -22,7 +22,7 @@
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -74,11 +74,11 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
-<a>![](https://github-readme-stats.vercel.app/api?username=sinisterdaddy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=sinisterdaddy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sinisterdaddy&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinisterdaddy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</a>  
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinisterdaddy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+
 <br/>  
 
 
@@ -100,7 +100,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sinisterdaddy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
