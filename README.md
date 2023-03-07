@@ -1,5 +1,5 @@
 <div align="center">
-# 👨‍ Welcome To:
+  <h1> 👨‍ Welcome To: </h1>
 
 </div>
 
@@ -9,7 +9,7 @@
 </div>  
   
 
-### I'm Radha krishna, a front-end developer and Data Scientist 👨‍💻 🚀
+### Hello!!, I'm RK, a front-end developer and Data Scientist 👨‍💻 🚀
   
 
 - 🔭 I’m currently working on React  
@@ -67,7 +67,7 @@
 <a href="https://twitter.com/im_rkgarg" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Radha krishna garg" target="_blank">
+<a href="https://linkedin.com/in/Radha Krishna Garg" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/im_rkgrg" target="_blank">
