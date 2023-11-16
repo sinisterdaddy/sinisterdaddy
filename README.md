@@ -43,7 +43,7 @@
 </p>
 
 
-<details open> 
+<details> 
   <summary><h2>📘 My Top Projects</h2></summary>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
