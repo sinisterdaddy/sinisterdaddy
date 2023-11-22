@@ -13,6 +13,7 @@
 <a href="https://twitter.com/im_rkgarg"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.linkedin.com/in/radha-krishna-garg-65a992130/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://medium.com/@krishna.garg010604"><img alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://buymeacoffee.com/radhakrishnagarg"><img alt="buymeacoffee" title="BUymeaCoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
